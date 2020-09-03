@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#228B22</color>  #changes the color of comms, map, control and message
+    <color name="colorPrimaryDark">	#228B22</color>
+    <color name="colorAccent">#E6E6FA</color>
+
+    <color name="border_color">#636363</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorRed">#9400D3</color>
+    <color name="colorBlack">#636363</color>
+    <color name="exploredColor">#000</color>
+</resources>
+
